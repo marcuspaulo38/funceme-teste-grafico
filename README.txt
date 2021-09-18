@@ -1,4 +1,4 @@
-1 - Entra na pasta onde você baixou o projeto e se precisar reistalar o composer
+1 - Entra na pasta onde baixou o projeto e se precisar reistale o composer
 composer install --ignore-platform-reqs
 
 
